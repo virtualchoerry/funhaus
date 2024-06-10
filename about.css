@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- 
+Michael Gomez Guevara
+about.html
+June 7th 2024 -->
+<html lang="en">
+<head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+        <title>house of horrors - about</title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>about</h1>
+    </header>
+<nav>
+    <p><a href="index.html">Home</a> &nbsp; &#9475; &nbsp;
+
+    About &nbsp; &#9475; &nbsp;
+
+    FUN!!! &nbsp; &#9475; &nbsp;
+
+    <a href="contact.html"> Contact </a> &nbsp; &#9475; &nbsp;</p>
+
+</nav>
+    <footer>
+        <p>&copy; Copyright 2024. All Rights Reserved.</p>
+        <p>141766@epsstudents.org</p>
+    </footer>
+</body>
+
+</html>
